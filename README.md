@@ -55,8 +55,8 @@ _Como Ejecutar la prueba Automatizada._
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Cristan Camilo Buitrago** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Cristan Camilo Buitrago** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Cristan Camilo Buitrago** - *Trabajo Inicial* - [camilocbc](https://github.com/camilocbc)
+* **Cristan Camilo Buitrago** - *Documentación* - [camilocbc](https://github.com/camilocbc)
 
 
 
